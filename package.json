@@ -15,7 +15,7 @@
         "pcap", "Packet Capture", "ARP", "node-red"
     ],
     "dependencies": {
-        "pcap": "2.0.1"
+        "pcap": "https://github.com/mranney/node_pcap.git"
     },
     "node-red": {
         "nodes": {
